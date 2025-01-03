@@ -10,9 +10,7 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-
-
-![dnzp75's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dnzp75&show_icons=true&theme=radical)
+![Dnzp75's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dnzp75&show_icons=true&theme=radical&card_width=300&layout=compact)
 
 <!--
 **dnzp75/dnzp75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
